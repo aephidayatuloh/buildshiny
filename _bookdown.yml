@@ -3,18 +3,3 @@ delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
-rmd_files: [
-  "index.Rmd",
-  
-  "business.Rmd",
-  "pengenalan.Rmd",
-  "basicr.Rmd",
-  "importdata.Rmd",
-  "exploration.Rmd",
-  "clustering.Rmd",
-  "arules.Rmd",
-  "linearreg.Rmd",
-  "logreg.Rmd",
-  "dectree.Rmd",
-  "references.Rmd"
-]
