@@ -1,2 +1,1 @@
-# buildshiny
-Materi pengenalan dan pengembangan Shiny
+# Materi pengenalan dan pengembangan Shiny
